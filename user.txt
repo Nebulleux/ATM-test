@@ -1,0 +1,4 @@
+tata|1234|0.0
+titi|1234|0.0
+jbropp|Mxlj4FmjiB/msGOP2gbsLamd1vtqR6MH+s7U/WJKFwA=|0.0
+
